@@ -1,0 +1,55 @@
+
+.card {
+    background: rgb(89,52,223);
+    background: linear-gradient(86deg, rgba(89,52,223,1) 3%, rgba(102,38,38,1) 49%, rgba(170,146,49,1) 100%);
+    margin-top: 150px;
+    padding: 2rem;
+}
+
+.card-header {
+    color: lightsteelblue;
+    background: bisque;
+    opacity: 0.8;
+    width: 400px;
+    margin-top: 0px;
+    
+}
+
+
+#header {
+    background: rgb(52,188,223);
+    background: linear-gradient(86deg, rgba(52,188,223,1) 3%, rgba(81,38,102,1) 49%, rgba(49,148,170,1) 99%);
+
+}
+
+#txt {
+    background: rgb(89,52,223);
+    background: linear-gradient(86deg, rgba(89,52,223,1) 3%, rgba(81,38,102,1) 49%, rgba(170,146,49,1) 100%);
+} 
+
+#footer {
+    background: rgb(89,52,223);
+    background: linear-gradient(86deg, rgba(89,52,223,1) 3%, rgba(81,38,102,1) 49%, rgba(49,148,170,1) 100%);
+
+}
+
+
+#h1 {
+    color: rgb(89,52,223);
+    color: linear-gradient(86deg, rgba(89,52,223,1) 3%, rgba(81,38,102,1) 49%, rgba(87,49,170,1) 100%);
+    opacity: 0.5;
+    margin-top: 50px;
+    font-family: cursive;
+}
+
+#button{
+    opacity: 0.5;
+    border: 0.1px solid ;
+    
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+}
+
